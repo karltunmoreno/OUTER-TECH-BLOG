@@ -1,4 +1,4 @@
-# technology-blog
+# technology-blog (MVC)
 
 ![Ss](https://karltunmoreno.github.io/My-Portfolio/assets/images/TechBlog.jpg)
 _________________________________________________________________________________________________________________________________________________________________
